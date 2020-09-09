@@ -301,3 +301,9 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
     text-shadow: 0px 16px 10px rgba(0, 0, 0, 0.3);
     transform: translate(0, -8);
   }
+.nav-bar-items{
+    display: flex;
+    justify-content: flex-end;
+    height: 77px;
+    align-items: center;
+}
